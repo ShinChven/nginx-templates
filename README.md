@@ -5,8 +5,8 @@ Create nginx config template from command line.
 ## Installation
 
 ```bash
-wget https://raw.githubusercontent.com/ShinChven/nginx-templates/master/nginx-templates.sh
-chmod +x ./nginx-templates.sh
+wget https://raw.githubusercontent.com/ShinChven/nginx-templates/master/nginx-templates.sh -O /usr/local/bin/nginx-templates
+chmod +x /usr/local/bin/nginx-templates
 ```
 
 ## Usage
